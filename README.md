@@ -3,8 +3,9 @@
 [![Twitter Badge](https://img.shields.io/badge/@iam_karanV-30302f?style=flat&logo=twitter&logoColor=white)](https://twitter.com/iam_karanV?s=08)
 [![Linkedin Badge](https://img.shields.io/badge/KaranVerma-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/karan-verma123/)
 [![Gmail Badge](https://img.shields.io/badge/karanverma9335@gmail.com-30302f?style=flat&logo=Gmail&logoColor=white)](mailto:karanverma9335@gmail.com)
-![](https://visitor-badge.glitch.me/badge?page_id=karan7393065010.karan7393065010)  
-           
+![](https://visitor-badge.glitch.me/badge?page_id=karan7393065010.karan7393065010) 
+
+## Hi Everyone 👋,           
 #### I'm KARAN VERMA, Student at 👨•💻 JSSATE Noida Pursuing B.Tech CSE . I love to build Android Application and exploring new technology . I also love to do Competitive programming as it furnish my logic building .
 
 <img align="right" alt="GIF" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" width="400px" />
