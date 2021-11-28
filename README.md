@@ -3,7 +3,7 @@
 [![Twitter Badge](https://img.shields.io/badge/@iam_karanV-30302f?style=flat&logo=twitter&logoColor=white)](https://twitter.com/iam_karanV?s=08)
 [![Linkedin Badge](https://img.shields.io/badge/KaranVerma-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/karan-verma123/)
 [![Gmail Badge](https://img.shields.io/badge/karanverma9335@gmail.com-30302f?style=flat&logo=Gmail&logoColor=white)](mailto:karanverma9335@gmail.com)
-![](https://visitor-badge.glitch.me/badge?page_id=karan7393065010.karan7393065010) 
+![](https://visitor-badge.glitch.me/badge?page_id=KaranVerma2000.KaranVerma2000) 
 
 ## Hi Everyone 👋,           
 #### I'm KARAN VERMA, Student at 👨•💻 JSSATE Noida Pursuing B.Tech CSE . I love to build Android Application and exploring new technology . I also love to do Competitive programming as it furnish my logic building .
@@ -18,15 +18,15 @@
 
 - ⚡ Fun fact: Everyone like to code at night but i love to code at early morning 😉! 
 
-<a href="https://karan7393065010.github.io">
+<a href="https://KaranVerma2000.github.io">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=karan7393065010&count_private=true" align="center"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=KaranVerma2000&count_private=true" align="center"/>
   
 </a>
 
 <a href="https://karan7393065010.github.io">
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karan7393065010&layout=compact" align="center"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaranVerma2000&layout=compact" align="center"/>
 
 </a>
 
